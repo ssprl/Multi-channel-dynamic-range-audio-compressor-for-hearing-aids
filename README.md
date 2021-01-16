@@ -24,6 +24,4 @@ For any utilization of the code content of this repository, one of the following
 - Hao, Yiya, Ziyan Zou, and Issa M. Panahi. "A robust smartphone based multi-channel dynamic-range audio compressor for hearing aids." The Journal of the Acoustical Society of America 143, no. 3 (2018): 1961-1961.
 
 ## Disclaimer
-This work was supported in part by the National Institute of the Deafness and Other Communication Disorders (NIDCD) of the National
-
-Institutes of Health (NIH) under Award 1R01DC015430-03. The content is solely the responsibility of the authors and does not necessarily represent the official views of the NIH
+This work was supported in part by the National Institute of the Deafness and Other Communication Disorders (NIDCD) of the National Institutes of Health (NIH) under Award 1R01DC015430. The content is solely the responsibility of the authors and does not necessarily represent the official views of the NIH
